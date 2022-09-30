@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keralaboy123
-- 👀 I’m interested in python java javascript hacking compilers application secuirty science 
+- 👀 I’m interested in python java javascript hacking compilers application security science 
 - 📫 you can reach me by twitter https://twitter.com/keralab51057134
 
 <!---
